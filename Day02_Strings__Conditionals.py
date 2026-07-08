@@ -112,4 +112,4 @@ if alpha in "a,e,i,o,u" :
     print("vowel")
 else:
     print("consonant")    
-
+#end for the day.
