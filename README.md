@@ -32,7 +32,7 @@ This repository will continue to grow as I progress from Python basics to advanc
 |------|----------------|--------|
 | Day 1 | Variables, Data Types, Type Conversion, User Input, Basic Programs | ✅ Completed |
 | Day 2 | Strings, String Methods, Slicing, Conditional Statements | ✅ Completed |
-| Day 3 | tuple and Lists | ⏳ Upcoming |
+| Day 3 | tuple and List | ✅ Completed |
 | Day 4 | Functions | ⏳ Upcoming |
 
 ---
