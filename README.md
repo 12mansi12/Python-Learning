@@ -33,8 +33,10 @@ This repository will continue to grow as I progress from Python basics to advanc
 | Day 1 | Variables, Data Types, Type Conversion, User Input, Basic Programs | ✅ Completed |
 | Day 2 | Strings, String Methods, Slicing, Conditional Statements | ✅ Completed |
 | Day 3 | tuple and List | ✅ Completed |
-| Day 4 | Functions | ⏳ Upcoming |
+| Day 4 | Dictionaries & Sets | ✅ Completed |
+| Day 5 | Loops | ✅ Completed |
 
+⏳ Upcoming
 ---
 
 ## 📂 Repository Structure
@@ -45,8 +47,9 @@ Python-Learning/
 ├── README.md
 ├── Day01_Variables_DataTypes.py
 ├── Day02_Strings_Conditionals.py
-├── Day03_Loops.py
-├── Day04_Functions.py
+├── Day03_Lists_Tuples.py
+├── Day04_Dictionaries_Sets.py
+├── Day05_Loops.py
 └── ...
 ```
 
