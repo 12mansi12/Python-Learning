@@ -63,23 +63,6 @@ Python-Learning/
 - Logical thinking exercises
 - Daily revision through coding
 
----
-
-## 🚀 Upcoming Topics
-
-- Loops
-- Functions
-- Lists
-- Tuples
-- Dictionaries
-- Sets
-- File Handling
-- Exception Handling
-- Object-Oriented Programming
-- Modules & Packages
-- Mini Projects
-- Data Structures
-- Python Libraries
 
 ---
 
@@ -93,6 +76,6 @@ This repository serves as a record of my continuous learning and improvement. As
 
 **Mansi Tyagi**
 
-BCA Student | Python Learner | Aspiring Data Scientist
+BCA Student | Python Learner 
 
 *"Consistency beats intensity. Every line of code is a step forward."*
