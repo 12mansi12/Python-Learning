@@ -51,7 +51,7 @@ Python-Learning/
 ├── Day03_Lists_Tuples.py
 ├── Day04_Dictionaries_Sets.py
 ├── Day05_Loops.py
-├── Day06_Functions and Recursion
+├── Day06_Functions and Recursion.py
 ├── Day07_
 
 ---
