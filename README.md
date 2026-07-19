@@ -36,6 +36,9 @@ This repository will continue to grow as I progress from Python basics to advanc
 | Day 4 | Dictionaries & Sets | ✅ Completed |
 | Day 5 | Loops | ✅ Completed |
 | Day 6 | Functions and Recursion | ✅ Completed |
+| Day 7 | File Input/Output | ✅ Completed |
+| Day 5 | OOPS | ✅ Completed |
+
 
 ⏳ Upcoming
 ---
@@ -52,9 +55,9 @@ Python-Learning/
 ├── Day04_Dictionaries_Sets.py
 ├── Day05_Loops.py
 ├── Day06_Functions and Recursion.py
-├── Day07_
+├── Day07_File Input/Output.py
+├── Day08_OOPS.py
 
----
 
 ## 💻 Practice Includes
 
