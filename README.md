@@ -35,6 +35,7 @@ This repository will continue to grow as I progress from Python basics to advanc
 | Day 3 | tuple and List | ✅ Completed |
 | Day 4 | Dictionaries & Sets | ✅ Completed |
 | Day 5 | Loops | ✅ Completed |
+| Day 6 | Functions and Recursion | ✅ Completed |
 
 ⏳ Upcoming
 ---
@@ -50,8 +51,8 @@ Python-Learning/
 ├── Day03_Lists_Tuples.py
 ├── Day04_Dictionaries_Sets.py
 ├── Day05_Loops.py
-└── ...
-```
+├── Day06_Functions and Recursion
+├── Day07_
 
 ---
 
