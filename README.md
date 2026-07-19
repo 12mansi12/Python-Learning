@@ -37,7 +37,7 @@ This repository will continue to grow as I progress from Python basics to advanc
 | Day 5 | Loops | ✅ Completed |
 | Day 6 | Functions and Recursion | ✅ Completed |
 | Day 7 | File Input/Output | ✅ Completed |
-| Day 5 | OOPS | ✅ Completed |
+| Day 8 | OOPS | ✅ Completed |
 
 
 ⏳ Upcoming
