@@ -68,7 +68,7 @@ Python-Learning/
 ├── Day07_File_Input_Output.py
 └── Day08_OOP.py
 
-## 📈 Repository Objective
+📈 Repository Objective
 
 This repository represents my progress as I learn, practice, and strengthen my Python programming skills.
 
@@ -76,7 +76,7 @@ It will continue to evolve as I apply the concepts I have learned to more comple
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Mansi Tyagi**
 
