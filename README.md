@@ -1,28 +1,29 @@
 # 🐍 Python Learning Journey
 
-> *Building a strong Python foundation through consistent learning, hands-on practice, and real-world problem solving.*
+> *Building a strong Python foundation through consistent learning, hands-on practice, and real-world problem-solving.*
 
 ---
 
 ## 📖 About This Repository
 
-This repository documents my journey of learning **Python from scratch**.
+This repository documents my journey of learning and practicing Python.
 
-Every file represents concepts I have studied, practical exercises I have completed, and small programs I have written to strengthen my understanding of Python fundamentals.
+It contains the concepts I have studied, practical exercises I have completed, and small programs I have written to strengthen my understanding of Python fundamentals.
 
-Rather than only following tutorials, I focus on implementing every concept through code, improving my logical thinking, problem-solving skills, and programming practices.
+Rather than only following tutorials, I focus on implementing concepts through code to improve my logical thinking, problem-solving skills, and programming practices.
 
-This repository will continue to grow as I progress from Python basics to advanced topics and real-world projects.
+This repository serves as a record of my continuous learning and will continue to evolve as I apply Python to data analysis and real-world projects.
 
 ---
 
 ## 🎯 Learning Goals
 
-- Build a solid foundation in Python programming
-- Develop strong problem-solving and logical thinking skills
-- Practice every concept through hands-on coding
-- Maintain consistency by documenting daily progress
-- Prepare for Data Science, Machine Learning, and Software Development
+- Build a strong foundation in Python programming
+- Develop logical thinking and problem-solving skills
+- Practice concepts through hands-on coding
+- Maintain consistency by documenting my learning progress
+- Apply Python to Data Analysis and real-world projects
+- Continue developing skills in Data Science and Machine Learning
 
 ---
 
@@ -32,15 +33,25 @@ This repository will continue to grow as I progress from Python basics to advanc
 |------|----------------|--------|
 | Day 1 | Variables, Data Types, Type Conversion, User Input, Basic Programs | ✅ Completed |
 | Day 2 | Strings, String Methods, Slicing, Conditional Statements | ✅ Completed |
-| Day 3 | tuple and List | ✅ Completed |
-| Day 4 | Dictionaries & Sets | ✅ Completed |
-| Day 5 | Loops | ✅ Completed |
-| Day 6 | Functions and Recursion | ✅ Completed |
-| Day 7 | File Input/Output | ✅ Completed |
-| Day 8 | OOPS | ✅ Completed |
+| Day 3 | Lists, List Methods, Tuples, Tuple Methods | ✅ Completed |
+| Day 4 | Dictionaries, Dictionary Methods, Sets, Set Methods | ✅ Completed |
+| Day 5 | for Loop, while Loop, range(), break, continue, pass | ✅ Completed |
+| Day 6 | Functions and Recursion Basics | ✅ Completed |
+| Day 7 | File Input/Output (File Handling) | ✅ Completed |
+| Day 8 | Object-Oriented Programming (OOP) | ✅ Completed |
 
+---
 
-⏳ Upcoming
+## 🚀 Next Steps
+
+My next learning phase will focus on:
+
+- SQL and Database Management Systems (DBMS)
+- Excel for Data Analysis
+- Python Data Analysis Libraries
+- Data Visualization
+- Real-world Data Analysis Projects
+
 ---
 
 ## 📂 Repository Structure
@@ -54,32 +65,6 @@ Python-Learning/
 ├── Day03_Lists_Tuples.py
 ├── Day04_Dictionaries_Sets.py
 ├── Day05_Loops.py
-├── Day06_Functions and Recursion.py
-├── Day07_File Input/Output.py
-├── Day08_OOPS.py
-
-
-## 💻 Practice Includes
-
-- Concept-based coding exercises
-- Small practice programs
-- Beginner-friendly challenges
-- Logical thinking exercises
-- Daily revision through coding
-
-
----
-
-## 📈 Repository Objective
-
-This repository serves as a record of my continuous learning and improvement. As I gain more experience, it will evolve from basic Python programs to larger projects and practical applications.
-
----
-
-## 👩‍💻 Author
-
-**Mansi Tyagi**
-
-BCA Student | Python Learner 
-
-*"Consistency beats intensity. Every line of code is a step forward."*
+├── Day06_Functions_Recursion.py
+├── Day07_File_Input_Output.py
+└── Day08_OOP.py
