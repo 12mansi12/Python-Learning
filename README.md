@@ -42,15 +42,14 @@ This repository serves as a record of my continuous learning and will continue t
 
 ---
 
-## 🚀 Next Steps
+## 💻 Practice Includes
 
-My next learning phase will focus on:
-
-- SQL and Database Management Systems (DBMS)
-- Excel for Data Analysis
-- Python Data Analysis Libraries
-- Data Visualization
-- Real-world Data Analysis Projects
+- Concept-based coding exercises
+- Small practice programs
+- Beginner-friendly challenges
+- Logical thinking exercises
+- Hands-on implementation of Python concepts
+- Regular revision through coding practice
 
 ---
 
@@ -68,3 +67,19 @@ Python-Learning/
 ├── Day06_Functions_Recursion.py
 ├── Day07_File_Input_Output.py
 └── Day08_OOP.py
+
+## 📈 Repository Objective
+
+This repository represents my progress as I learn, practice, and strengthen my Python programming skills.
+
+It will continue to evolve as I apply the concepts I have learned to more complex problems and practical projects.
+
+---
+
+## 👩‍💻 Author
+
+**Mansi Tyagi**
+
+BCA Student | Python Learner
+
+> *Consistency beats intensity. Every line of code is a step forward.*
